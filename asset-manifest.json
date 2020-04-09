@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/guess-flag/static/css/main.b5b0a3f2.chunk.css",
+    "main.js": "/guess-flag/static/js/main.1a4335fd.chunk.js",
+    "main.js.map": "/guess-flag/static/js/main.1a4335fd.chunk.js.map",
+    "runtime-main.js": "/guess-flag/static/js/runtime-main.a8532f7d.js",
+    "runtime-main.js.map": "/guess-flag/static/js/runtime-main.a8532f7d.js.map",
+    "static/js/2.9145c991.chunk.js": "/guess-flag/static/js/2.9145c991.chunk.js",
+    "static/js/2.9145c991.chunk.js.map": "/guess-flag/static/js/2.9145c991.chunk.js.map",
+    "index.html": "/guess-flag/index.html",
+    "precache-manifest.7e47260eea6f7f43c03d2538784928cc.js": "/guess-flag/precache-manifest.7e47260eea6f7f43c03d2538784928cc.js",
+    "service-worker.js": "/guess-flag/service-worker.js",
+    "static/css/main.b5b0a3f2.chunk.css.map": "/guess-flag/static/css/main.b5b0a3f2.chunk.css.map",
+    "static/js/2.9145c991.chunk.js.LICENSE.txt": "/guess-flag/static/js/2.9145c991.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8532f7d.js",
+    "static/js/2.9145c991.chunk.js",
+    "static/css/main.b5b0a3f2.chunk.css",
+    "static/js/main.1a4335fd.chunk.js"
+  ]
+}
